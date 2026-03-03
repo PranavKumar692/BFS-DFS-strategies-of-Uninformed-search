@@ -1,6 +1,5 @@
 import math
 
-# Create empty board
 board = [" " for _ in range(9)]
 
 def print_board():
